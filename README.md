@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BasantAwad/BasantAwad/main/assets/basant-terminal-banner.png" alt="Terminal-inspired project banner" width="100%" />
+</p>
+
 # Theory of Computation Exercises
 
 A collection of Theory of Computation work covering formal models, language reasoning, and computational problem-solving exercises.
